@@ -1,1 +1,1 @@
-//Modifies the site to include a web Browser
+//Adds the functionality of a web browser
